@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NfcEmulator</string>
+    <string name="pres_text">Scannez un tag ou sélectionnez un tag précédemment scanné pour l\'émuler</string>
+    <string name="read_nfc">Read NFC</string>
+    <string name="emulate_nfc">Emulate NFC</string>
+    <string name="resultats">Resultats :</string>
+</resources>
